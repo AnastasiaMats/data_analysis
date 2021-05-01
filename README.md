@@ -7,3 +7,4 @@
 + [Валидация моделей классификации](https://github.com/AnastasiaMats/data_analysis/blob/main/III_machine_learning_supervised_hw.ipynb)
 + [Кластеризация](https://github.com/AnastasiaMats/data_analysis/blob/main/IV_machine_learning_unsupervised_hw.ipynb)
 + [Регуляризция](https://github.com/AnastasiaMats/data_analysis/blob/main/V_machine_learning_tuning_hw.ipynb)
++ [ML как http-сервис](https://github.com/AnastasiaMats/data_analysis/blob/main/VI_machine_learning_production_hw.ipynb)
